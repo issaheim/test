@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "code testing with jest - a school assignment",
+  "main": "add.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/issaheim/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/issaheim/test/issues"
+  },
+  "homepage": "https://github.com/issaheim/test#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
